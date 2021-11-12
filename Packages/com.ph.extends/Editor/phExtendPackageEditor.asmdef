@@ -1,0 +1,20 @@
+{
+    "name": "phExtendPackageEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6d32000ca626443b7a38a714232e6dff",
+        "GUID:69448af7b92c7f342b298e06a37122aa",
+        "GUID:f0c774e7dbab37641808f75bcc438e4a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
