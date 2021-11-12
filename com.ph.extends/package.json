@@ -6,6 +6,6 @@
   "dependencies": {
     "com.unity.addressables": "1.18.19"
   },
-  "description": "PH Extend Package\n1. ResourceManager\nRemoveSoundManager",
+  "description": "PH Extend Package\n1. ResourceManager\nAddSoundManager",
   "author": "215MH Kyeongsup Kim"
 }
