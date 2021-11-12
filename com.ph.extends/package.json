@@ -1,7 +1,7 @@
 {
   "name": "com.ph.extends",
   "displayName": "PH Extend Package",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "unity": "2020.3",
   "dependencies": {
     "com.unity.addressables": "1.18.19"
